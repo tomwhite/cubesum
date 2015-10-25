@@ -6,8 +6,8 @@ width = n
 print """<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 %s %s" preserveAspectRatio="xMidYMin">
   
-  <desc>The sum of the first n cubes equals the square of the sum of the first n numbers</desc>
-  <title>Cube sum</title>
+  <desc>The sum of the first n odd numbers equals n squared</desc>
+  <title>Odd sum</title>
 """ % (width, width)
 
 start = 0;
