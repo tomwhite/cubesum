@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22pt" version="1.1" xmlns="http://www.w3.org/2000/svg" height="22pt" viewBox="0 0 22 22" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Cube sum</title>
+ <desc>The sum of the first n cubes equals the square of the sum of the first n numbers</desc>
+ <defs>
+  <clipPath id="Clip0">
+   <path d="M0 0 L21.9476 0 L21.9476 21.9476 L0 21.9476 L0 0 Z" transform="translate(0, 0)"/>
+  </clipPath>
+ </defs>
+ <g id="Background">
+  <g id="svg3148" clip-path="url(#Clip0)">
+   <path style="fill:#0000ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" block" d="M0 0 L0.995238 0 L0.995238 0.995238 L0 0.995238 L0 0 Z" transform="translate(0, 0)"/>
+   <path style="fill:#ff00ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3155" d="M0 0 L2.04286 0 L2.04286 2.04286 L0 2.04286 L0 0 Z" transform="translate(1.04762, 0)"/>
+   <path style="fill:#ff00ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3157" d="M0 0 L2.04286 0 L2.04286 2.04286 L0 2.04286 L0 0 Z" transform="translate(0, 1.04762)"/>
+   <path style="fill:#0000ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3159" d="M0 0 L3.09048 0 L3.09048 3.09048 L0 3.09048 L0 0 Z" transform="translate(3.14286, 0)"/>
+   <path style="fill:#0000ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3161" d="M0 0 L3.09048 0 L3.09048 3.09048 L0 3.09048 L0 0 Z" transform="translate(0, 3.14286)"/>
+   <path style="fill:#0000ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3163" d="M0 0 L3.09048 0 L3.09048 3.09048 L0 3.09048 L0 0 Z" transform="translate(3.14286, 3.14286)"/>
+   <path style="fill:#ff00ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3165" d="M0 0 L4.1381 0 L4.1381 4.1381 L0 4.1381 L0 0 Z" transform="translate(6.28571, 0)"/>
+   <path style="fill:#ff00ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3167" d="M0 0 L4.1381 0 L4.1381 4.1381 L0 4.1381 L0 0 Z" transform="translate(0, 6.28571)"/>
+   <path style="fill:#ff00ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3169" d="M0 0 L4.1381 0 L4.1381 4.1381 L0 4.1381 L0 0 Z" transform="translate(6.28571, 4.19048)"/>
+   <path style="fill:#ff00ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3171" d="M0 0 L4.1381 0 L4.1381 4.1381 L0 4.1381 L0 0 Z" transform="translate(4.19048, 6.28571)"/>
+   <path style="fill:#0000ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3173" d="M0 0 L5.18571 0 L5.18571 5.18571 L0 5.18571 L0 0 Z" transform="translate(10.4762, 0)"/>
+   <path style="fill:#0000ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3175" d="M0 0 L5.18571 0 L5.18571 5.18571 L0 5.18571 L0 0 Z" transform="translate(0, 10.4762)"/>
+   <path style="fill:#0000ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3177" d="M0 0 L5.18571 0 L5.18571 5.18571 L0 5.18571 L0 0 Z" transform="translate(10.4762, 5.2381)"/>
+   <path style="fill:#0000ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3179" d="M0 0 L5.18571 0 L5.18571 5.18571 L0 5.18571 L0 0 Z" transform="translate(5.2381, 10.4762)"/>
+   <path style="fill:#0000ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3181" d="M0 0 L5.18571 0 L5.18571 5.18571 L0 5.18571 L0 0 Z" transform="translate(10.4762, 10.4762)"/>
+   <path style="fill:#e20078; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3183" d="M0 0 L6.23333 0 L6.23333 6.23333 L0 6.23333 L0 0 Z" transform="translate(15.7143, 0)"/>
+   <path style="fill:#ff00ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3185" d="M0 0 L6.23333 0 L6.23333 6.23333 L0 6.23333 L0 0 Z" transform="translate(0, 15.7143)"/>
+   <path style="fill:#ff00ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3187" d="M0 0 L6.23333 0 L6.23333 6.23333 L0 6.23333 L0 0 Z" transform="translate(15.7143, 6.28571)"/>
+   <path style="fill:#ff00ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3189" d="M0 0 L6.23333 0 L6.23333 6.23333 L0 6.23333 L0 0 Z" transform="translate(6.28571, 15.7143)"/>
+   <path style="fill:#ff00ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3191" d="M0 0 L6.23333 0 L6.23333 6.23333 L0 6.23333 L0 0 Z" transform="translate(15.7143, 12.5714)"/>
+   <path style="fill:#ff00ff; fill-rule:evenodd; fill-opacity:0.5;stroke:none;" id=" rect3193" d="M0 0 L6.23333 0 L6.23333 6.23333 L0 6.23333 L0 0 Z" transform="translate(12.5714, 15.7143)"/>
+  </g>
+ </g>
+</svg>
